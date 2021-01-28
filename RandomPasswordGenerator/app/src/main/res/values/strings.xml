@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomPasswordGenerator</string>
+    <string name="special_characters">Special Characters</string>
+    <string name="numbers">Numbers</string>
+    <string name="your_password">Your password :</string>
+    <string name="new_password">New password</string>
+    <string name="length_10">Length = 10</string>
+    <string name="capitals">Capitals</string>
+</resources>
